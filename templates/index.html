@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>$site_title$</title>
+    <link rel="stylesheet" href="/style.css">
   </head>
   <body>
     <main>
@@ -11,9 +12,11 @@
         <h1>$site_title$</h1>
       </header>
       <p>Jamie's unfiltered thoughts.</p>
-      <ol>
+      <ol reversed>
         $body$
       </ol>
+      <hr>
+      $footer()$
     </main>
   </body>
 </html>
