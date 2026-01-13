@@ -17,13 +17,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container:
-      image: pandoc/core:latest
     steps:
       - uses: actions/checkout@v4
 
       - name: Build site
-        run: ./blurt build
+        run: docker run --rm -v "$PWD:/workspace" -w /workspace pandoc/extra:latest ./blurt build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
