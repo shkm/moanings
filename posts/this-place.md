@@ -5,7 +5,7 @@ date: 2026-01-13
 
 Here we are at "Moanings".
 
-I've been writing bits and pieces on the web for as long as I can remember. Most of the older stuff is gone now, and the writing I focus on over at [https://schembri.me](main main site) is professional (or so I try).
+I've been writing bits and pieces on the web for as long as I can remember. Most of the older stuff is gone now, and the writing I focus on over at [my main site](https://schembri.me) is professional (or so I try).
 
 I am by no means well known, but there are a few people who keep up with what I write. This put me in a bit of a dilemma: would I be burdening my audience by writing whatever pops into my head when they're there for the software posts? Yes, I decided. And so this place was born.
 
