@@ -1,6 +1,7 @@
 ---
 title: This place
 date: 2026-01-13
+description: Why this site exists.
 ---
 
 Here we are at "Moanings".
