@@ -10,7 +10,7 @@ Sorry. Yes, I agree, in the majority of cases this phrase is used less to portra
 
 But I'm actually writing this one because people _do_ ask me about my diet. If it comes from a place of genuine curiosity, that's fine! This is a choice, and I'm happy to discuss my choice. More often, though, it doesn't, and sadly it most commonly comes tinged with preconceived, negative ideas about who I am. I suppose it doesn't help that I live in an area somewhat outside of civilisation.
 
-Let me first state, though, that I've never been loud about my diet. I am not the straw—man, holier-than-thou preacher whom I've heard a lot about but never had the displeasure of meeting. The only reason the topic comes up at all is because it can make eating with friends a bit more complicated for me, which is the one thing I dislike about it. And if you're staying with or eating with friends often, then it might come up often.
+Let me first state, though, that I've never been loud about my diet. I am not the straw-man, holier-than-thou preacher whom I've heard a lot about but never had the displeasure of meeting. The only reason the topic comes up at all is because it can make eating with friends a bit more complicated for me, which is the one thing I dislike about it. And if you're staying with or eating with friends often, then it might come up often.
 
 ## Childhood
 
