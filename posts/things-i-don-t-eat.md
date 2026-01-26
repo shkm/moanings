@@ -62,7 +62,7 @@ Anyway, that's the story I wanted to write. Since some things come up often enou
 
 ## Preach?
 
-There's some idea that we vegans are constantly preaching to others about how awful they are. Perhaps the very idea of that being true made me afraid to say anything. In effect, I now feel feel embarrassed and apologetic for being the "weird" and "annoying" guy that people have to go out of their way to cater to. There's a lot of social awkwardness on both sides around these things.
+There's some idea that we vegans are constantly preaching to others about how awful they are. Perhaps the very idea of that being true made me afraid to say anything. In effect, I now feel embarrassed and apologetic for being the "weird" and "annoying" guy that people have to go out of their way to cater to. There's a lot of social awkwardness on both sides around these things.
 
 I've avoided social events simply so I didn't have to "deal" with the food aspect. As recently as last year I was going to miss out on something that ended up being one of the best times of my life, and that's only because I was talked back into it.
 
