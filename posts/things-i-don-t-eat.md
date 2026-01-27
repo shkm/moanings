@@ -58,7 +58,6 @@ And, to be honest, "being vegan" does encompass more than just not eating certai
 
 So we need labels, and if that means that my "being vegan" gets bundled up with that stereotypical-in-some-universe version of a vegan I mentioned above, then more's the shame for the judge.
 
-Anyway, that's the story I wanted to write. Since some things come up often enough, I'll include some additional sections below for those. Perhaps I'll keep this post updated over time.
 
 ## Preach?
 
